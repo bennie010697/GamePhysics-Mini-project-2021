@@ -4,6 +4,12 @@
 Created by: Ben Veldhuizen (5981778) 
         and Roos Boekelman (5681936)
 
+**Open the project**
+Open in unity-hub
+ - Add Folder called "mini-physics-project-2021"
+
+**Run the Build Exe**
+ - go to build and open the "mini-physics-project-2021.exe"
 
 This is a buoyancy simulator. 
 The simulation is currently running with seawater, but the density/fluid can be changed by choosing a different fluid in ObjectBehaviour.cs (line13-17) and adding this to the buoyancy function on line 42.
